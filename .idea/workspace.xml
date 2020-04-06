@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e723925-779d-4ffa-9c79-5431bc04a785" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BTT.4 L.4 Git &amp; HTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quiz.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[Thực hành] Sử dụng thẻ HTML cơ bản.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thực hành.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wf-hello" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tạo_danh_sách.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +46,7 @@
       <updated>1586145367218</updated>
       <workItem from="1586145368499" duration="4472000" />
       <workItem from="1586159726281" duration="1195000" />
-      <workItem from="1586162125256" duration="796000" />
+      <workItem from="1586162125256" duration="3135000" />
     </task>
     <servers />
   </component>
@@ -65,5 +58,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586162185932" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586164521796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586164521796" />
   </component>
 </project>
