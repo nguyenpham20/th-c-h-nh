@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e723925-779d-4ffa-9c79-5431bc04a785" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tạo_danh_sách.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tao_trang_cv_ca_nhan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,16 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Angular2Html" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager">
+    <configuration name="Tao_trang_cv_ca_nhan.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BTT.4 L.4 Git &amp; HTML/Tao_trang_cv_ca_nhan.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Tao_trang_cv_ca_nhan.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -46,7 +56,7 @@
       <updated>1586145367218</updated>
       <workItem from="1586145368499" duration="4472000" />
       <workItem from="1586159726281" duration="1195000" />
-      <workItem from="1586162125256" duration="3135000" />
+      <workItem from="1586162125256" duration="6505000" />
     </task>
     <servers />
   </component>
